@@ -1,0 +1,30 @@
+
+   "intents":[
+    
+      {
+         "tag":"goodbye",
+         "patterns":[
+            "Bye",
+            "See you later",
+            "Goodbye"
+         ],
+         "responses":[
+            "See you later",
+            "Have a nice day",
+            "Bye! Come back again"
+         ]
+      },
+      {
+         "tag":"thanks",
+         "patterns":[
+            "Thanks",
+            "Thank you"
+         ],
+         "responses":[
+            "Any time!",
+            "My pleasure",
+            "You're most welcome!"
+         ]
+      }
+   ]
+}
